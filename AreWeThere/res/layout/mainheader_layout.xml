@@ -14,8 +14,7 @@
         android:background="@color/white" 
         android:orientation="vertical"
         >
-        
-        
+          
     </LinearLayout>
 
     <LinearLayout
